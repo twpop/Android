@@ -59,6 +59,8 @@
         android:layout_below="@id/top"
         android:layout_above="@id/bottom"
         android:text="Hello"
-        android:background="#ff0"
+        android:textColor="#ff0000"
+        android:textSize="24sp"
+        android:background="#ffffff"
         />
 </RelativeLayout>
